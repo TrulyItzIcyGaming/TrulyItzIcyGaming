@@ -49,13 +49,13 @@ Signature phrase: *“Remember, Stay HarmonIQ.”*
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=obfus8&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obfus8&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TrulyItzIcyGaming&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrulyItzIcyGaming&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Connect
-- GitHub: [Obfus8](https://github.com/obfus8)  
+- GitHub: [Obfus8](https://github.com/TrulyItzIcyGaming)  
 - YouTube (coming soon)  
 - Music: [Truly HarmonIQ on YouTube](https://youtube.com/@TrulyHarmonIQ)
 
